@@ -9,11 +9,11 @@ This project contains three Python tasks.
 * No additional packages or imports are required.
 
 ## Task 1 — Check a Number
-File: `task1.py`
+File: `task01.py`
 
 Run:
 ```bash
-python task1.py
+python task01.py
 ```
 Enter a number when prompted.
 
@@ -31,11 +31,11 @@ Output: Hello
 ---
 
 ## Task 2 — Check a Name
-File: `task2.py`
+File: `task02.py`
 
 Run:
 ```bash
-python task2.py
+python task02.py
 ```
 Enter a name when prompted.
 
@@ -58,11 +58,11 @@ Output: Hello, John
 ---
 
 ## Task 3 — Find Multiples of 3
-File: `task3.py`
+File: `task03.py`
 
 Run:
 ```bash
-python task3.py
+python task03.py
 ```
 
 Enter numbers separated by spaces.
